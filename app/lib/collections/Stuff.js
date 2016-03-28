@@ -60,6 +60,7 @@ Stuff.attachSchema(new SimpleSchema({
     type: String,
     label: "Notes",
     autoform: {
+      group: stuff,
       afFieldInput: {
         type: "ace-editor",
         editorWidth: "600px",
