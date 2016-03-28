@@ -55,5 +55,18 @@ Stuff.attachSchema(new SimpleSchema({
       group: stuff,
       placeholder: "3"
     }
+  },
+  notes: {
+    type: String,
+    label: "Notes",
+    autoform: {
+      afFieldInput: {
+        type: "ace-editor",
+        editorWidth: "600px",
+        editorHeight: "250px",
+        theme: "twilight",
+        mode: "text"
+      }
+    }
   }
 }));

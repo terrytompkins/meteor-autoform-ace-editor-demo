@@ -26,3 +26,5 @@ accounts-password
 underscore
 ejson
 check
+arch:ace-editor
+terrytompkins:meteor-autoform-ace-editor
