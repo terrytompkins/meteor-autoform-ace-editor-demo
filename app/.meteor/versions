@@ -88,7 +88,7 @@ standard-minifiers@1.0.2
 stylus@2.511.1
 templating@1.1.5
 templating-tools@1.0.0
-terrytompkins:meteor-autoform-ace-editor@0.0.1
+terrytompkins:meteor-autoform-ace-editor@0.0.2
 tracker@1.0.9
 twbs:bootstrap@3.3.6
 ui@1.0.8
